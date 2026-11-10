@@ -1,5 +1,7 @@
 # EmojiTiles
 
+![EmojiTiles in game](screenshot.png)
+
 A BepInEx plugin for Casualties: Unknown that draws every level block as one image. It only changes how blocks look on your own screen and sends nothing to other players.
 
 ## Install
